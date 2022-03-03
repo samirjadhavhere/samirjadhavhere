@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @samirjadhavhere
-- 👀 I’m interested in coading(python devloper).
+- 👀 I’m interested in coading(python developer).
 - 🌱 I’m currently learning python full stag develoaping.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me samirjadhavhere@gmail.com
