@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @samirjadhavhere
-- 👀 I’m interested in coading(python developer).
-- 🌱 I’m currently pursuing python full stag programming..
+- 👀 I’m interested in coding and data analysis (Data science)
+- 🌱 I’ve persued Data Science..
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me samirjadhavhere@gmail.com
 
